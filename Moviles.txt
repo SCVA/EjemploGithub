@@ -1,5 +1,2 @@
 Johanna Andrade Rivera
-
-
-
-Programacion Moviles 20221
+Clase Moviles
